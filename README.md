@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Siyuan (Max) Meng
+# 👋 Hi there, I'm Max
 
 ## 🎓 About Me
 - 🔭 I'm currently a PhD student at UMass Amherst
