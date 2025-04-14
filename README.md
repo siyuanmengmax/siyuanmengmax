@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Max
 
 ## 🎓 About Me
-- 🔭 I'm currently a PhD student at UMass Amherst
+- 🔭 I'm currently a PhD candidate at UMass Amherst
 - 🌱 I'm currently learning Point Cloud Processing and Computer Vision
 - 👯 I'm looking to collaborate on Open Source Projects
 - 💬 Ask me about Python, Point Cloud Processing, Computer Vision
