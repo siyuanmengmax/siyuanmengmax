@@ -2,9 +2,8 @@
 
 ## 🎓 About Me
 - 🔭 I'm currently a PhD candidate at UMass Amherst
-- 🌱 I'm currently learning Point Cloud Processing and Computer Vision
 - 👯 I'm looking to collaborate on Open Source Projects
-- 💬 Ask me about Python, Point Cloud Processing, Computer Vision
+- 💬 Ask me about Python, Tranportation, Civil Engineering
 
 ## 🛠 Tech Stack
 ### Languages
@@ -25,19 +24,13 @@
 ## 📊 GitHub Stats
 ![siyuanmengmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyuanmengmax&show_icons=true&theme=radical)
 
-## 🎯 Featured Projects
-### Background Removal for Point Cloud
-- Description: A Python-based project for processing Point Cloud Data (PCD) files
-- Tech Stack: Python, Pytorch, Open3D, NumPy
-- [View Project](https://github.com/siyuanmengmax/background-removal)
-
 ## 📫 How to Reach Me
 - Email: [siyuanmeng@umass.edu](mailto:siyuanmeng@umass.edu)
 - LinkedIn: [Max Siyuan Meng](https://www.linkedin.com/in/max-siyuan-meng-30ba312a8/)
 
 ## 🌐 More About Me
 - 📝 [My ResearchGate Profile](https://www.researchgate.net/profile/Max-Siyuan-Meng)
-- 🎯 Goals for 2024: Contribute more to open source projects and advance my research
+- 🎯 Goals for 2025: Contribute more to open source projects and advance my research
 - ⚡ Fun fact: Always looking for interesting research collaborations!
 
 ---
