@@ -35,6 +35,8 @@ My research centers on **Infrastructure-Centric World Models (I-WM)** — buildi
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Open3D](https://img.shields.io/badge/-Open3D-333333?style=flat&logo=open3d)
 ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![CARLA](https://img.shields.io/badge/-CARLA-333333?style=flat&logo=unreal-engine&logoColor=white)
+![SUMO](https://img.shields.io/badge/-SUMO-333333?style=flat&logo=eclipse&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ## 📊 GitHub Stats
