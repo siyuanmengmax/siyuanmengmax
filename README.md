@@ -21,6 +21,7 @@ My research centers on **Infrastructure-Centric World Models (I-WM)** — buildi
 
 ## 📄 Selected Publications
 
+- **MulDet3D**: MulDet3D: Multi-Objective Optimization Based Unsupervised Object Detection for Multiple Roadside LiDARs — *ASCE Journal of Transportation Engineering Part A: Systems* (2026)
 - **FRGB3D**: Fast Reliability-Weighted Gaussian Background Modeling for Roadside LiDAR Traffic Monitoring — *ASCE Journal of Computing in Civil Engineering* (2026) [[DOI]](https://doi.org/10.1061/JCCEE5/CPENG-7710)
 - Multi-objective Optimization for Integrated Road Asset Management — *Transportation Research Record* (2026) [[DOI]](https://doi.org/10.1177/03611981261441294)
 - Multiobjective Optimization for Pavement Segment Grouping — *ASCE Journal of Infrastructure Systems* (2023) [[DOI]](https://doi.org/10.1061/JITSE4.ISENG-2175)
