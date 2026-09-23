@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I hold a Ph.D. in Civil & Environmental Engineering from the **University of Massachusetts Amherst**, where I was advised by Dr. Chengbo Ai. I received both my B.S. and M.S. degrees from **Chang'an University**, where I was advised by Dr. Qiang Bai.
+I hold a Ph.D. in Civil Engineering from the **University of Massachusetts Amherst**, where I was advised by Dr. Chengbo Ai. I received both my B.S. and M.S. degrees from **Chang'an University**, where I was advised by Dr. Qiang Bai.
 
 My research centers on **Infrastructure-Centric World Models (I-WM)** — building reliable, quality-aware perception and world-modeling systems for fixed roadside sensor networks, with uncertainty propagated from raw sensing to safety-critical transportation applications.
 
