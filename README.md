@@ -2,30 +2,36 @@
 
 ## 🎓 About Me
 
-I'm a Ph.D. candidate in Civil & Environmental Engineering at the **University of Massachusetts Amherst**, advised by Dr. Chengbo Ai. I hold both my B.S. and M.S. from **Chang'an University**, where I was advised by Dr. Qiang Bai.
+I hold a Ph.D. in Civil & Environmental Engineering from the **University of Massachusetts Amherst**, where I was advised by Dr. Chengbo Ai. I received both my B.S. and M.S. degrees from **Chang'an University**, where I was advised by Dr. Qiang Bai.
 
-My research centers on **Infrastructure-Centric World Models (I-WM)** — building reliable, quality-aware perception systems for roadside LiDAR networks that propagate sensor-level uncertainty from raw point clouds to safety-critical traffic applications.
+My research centers on **Infrastructure-Centric World Models (I-WM)** — building reliable, quality-aware perception and world-modeling systems for fixed roadside sensor networks, with uncertainty propagated from raw sensing to safety-critical transportation applications.
+
+My broader research spans **intelligent transportation perception**, **transportation safety analysis**, and **transportation system optimization**.
 
 🔗 **[Personal Homepage](https://siyuanmengmax.github.io/)** · **[Google Scholar](https://scholar.google.com/citations?user=9L4TQh0AAAAJ&hl=en)** · **[ResearchGate](https://www.researchgate.net/profile/Max-Siyuan-Meng)**
 
 ## 🔬 Research Directions
 
 **🚦 Intelligent Transportation Perception**
-> Quality-aware multi-LiDAR pipeline: background modeling (FRGB3D) → 3D object detection (MulDet3D) → multi-object tracking (MulTrack3D) → with reliability propagated end-to-end
+> Infrastructure-centric perception and world modeling using roadside LiDAR networks, including quality-aware background modeling (FRGB3D), unsupervised 3D object detection (MulDet3D), multi-object tracking (MulTrack3D), and multi-sensor fusion.
 
 **🛡️ Transportation Safety Analysis**
-> Conflict detection using quality-weighted trajectory data from roadside multi-LiDAR systems
+> Conflict detection and safety assessment using quality-aware trajectory data from roadside sensing systems, with uncertainty explicitly considered in downstream safety metrics.
 
 **⚡ Transportation System Optimization**
-> Multi-objective optimization for pavement asset management, EV charging infrastructure, and mixed fleet routing
+> Multi-objective optimization for pavement asset management, EV charging infrastructure, and mixed-fleet transportation systems.
 
 ## 📄 Selected Publications
 
-- **MulDet3D**: MulDet3D: Multi-Objective Optimization Based Unsupervised Object Detection for Multiple Roadside LiDARs — *ASCE Journal of Transportation Engineering Part A: Systems* (2026) [[DOI]](https://doi.org/10.1061/JTEPBS/TEENG-9741)
-- **FRGB3D**: Fast Reliability-Weighted Gaussian Background Modeling for Roadside LiDAR Traffic Monitoring — *ASCE Journal of Computing in Civil Engineering* (2026) [[DOI]](https://doi.org/10.1061/JCCEE5/CPENG-7710)
-- **I-WM**: Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth — *arXiv* (2026) [[Link]](https://arxiv.org/abs/2604.17651)
-- Multi-objective Optimization for Integrated Road Asset Management — *Transportation Research Record* (2026) [[DOI]](https://doi.org/10.1177/03611981261441294)
-- Multiobjective Optimization for Pavement Segment Grouping — *ASCE Journal of Infrastructure Systems* (2023) [[DOI]](https://doi.org/10.1061/JITSE4.ISENG-2175)
+- **MulDet3D**: *MulDet3D: Multi-Objective Optimization Based Unsupervised Object Detection for Multiple Roadside LiDARs* — **ASCE Journal of Transportation Engineering, Part A: Systems** (2026) [[DOI]](https://doi.org/10.1061/JTEPBS/TEENG-9741)
+
+- **FRGB3D**: *Fast Reliability-Weighted Gaussian Background Modeling for Roadside LiDAR Traffic Monitoring* — **ASCE Journal of Computing in Civil Engineering** (2026) [[DOI]](https://doi.org/10.1061/JCCEE5/CPENG-7710)
+
+- **I-WM**: *Infrastructure-Centric World Models: Bridging Temporal Depth and Spatial Breadth* — **arXiv** (2026) [[Link]](https://arxiv.org/abs/2604.17651)
+
+- *A Multi-Objective Optimization Method for Integrated Road Asset Management* — **Transportation Research Record** (2026) [[DOI]](https://doi.org/10.1177/03611981261441294)
+
+- *Multiobjective Optimization for Pavement Segment Grouping* — **ASCE Journal of Infrastructure Systems** (2023) [[DOI]](https://doi.org/10.1061/JITSE4.ISENG-2175)
 
 ## 🛠️ Tech Stack
 
